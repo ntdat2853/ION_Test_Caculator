@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/ION_Test_Caculator/">
+    <file alias="Main.qml">D:/Study/QML/ION_Test_Caculator/Main.qml</file>
+    <file alias="CaculatorButton.qml">D:/Study/QML/ION_Test_Caculator/CaculatorButton.qml</file>
+    <file alias="HistoryPanel.qml">D:/Study/QML/ION_Test_Caculator/HistoryPanel.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,8 @@
+module ION_Test_Caculator
+typeinfo appION_Test_Caculator.qmltypes
+prefer :/qt/qml/ION_Test_Caculator/
+Main 254.0 Main.qml
+CaculatorButton 254.0 CaculatorButton.qml
+HistoryPanel 254.0 HistoryPanel.qml
+depends QtQuick
+

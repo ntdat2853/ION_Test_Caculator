@@ -1,0 +1,15 @@
+-rootPath
+D:/Study/QML/ION_Test_Caculator
+-cmake-output
+-output-file
+D:/Study/QML/ION_Test_Caculator/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/qml_imports/appION_Test_Caculator_conf.cmake
+-importPath
+D:/Study/QML/ION_Test_Caculator/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug
+-importPath
+D:/Study/QML/ION_Test_Caculator/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/ION_Test_Caculator
+-importPath
+C:/Qt/6.10.2/mingw_64/qml
+-qrcFiles
+D:/Study/QML/ION_Test_Caculator/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/qmake_ION_Test_Caculator.qrc
+D:/Study/QML/ION_Test_Caculator/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/appION_Test_Caculator_raw_qml_0.qrc
+D:/Study/QML/ION_Test_Caculator/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/appION_Test_Caculator_raw_res_0.qrc

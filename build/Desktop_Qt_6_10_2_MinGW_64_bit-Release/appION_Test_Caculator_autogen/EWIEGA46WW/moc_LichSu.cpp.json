@@ -1,0 +1,62 @@
+{
+    "classes": [
+        {
+            "className": "LichSu",
+            "lineNumber": 8,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 2,
+                    "lineNumber": 17,
+                    "name": "nhanLichSu",
+                    "returnType": "QStringList"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "lineNumber": 18,
+                    "name": "xoaLichSu",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "LichSu",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 20,
+                    "name": "lichSuChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "bieuThuc",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "ketQua",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 1,
+                    "lineNumber": 22,
+                    "name": "themLichSu",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "LichSu.h",
+    "outputRevision": 69
+}

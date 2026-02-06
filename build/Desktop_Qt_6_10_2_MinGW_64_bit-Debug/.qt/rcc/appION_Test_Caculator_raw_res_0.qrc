@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qt/qml/ION_Test_Caculator/">
+    <file alias="assets/icons/logo_caculator.png">D:/Study/QML/ION_Test_Caculator/assets/icons/logo_caculator.png</file>
+    <file alias="assets/icons/bin.png">D:/Study/QML/ION_Test_Caculator/assets/icons/bin.png</file>
+    <file alias="assets/icons/history.png">D:/Study/QML/ION_Test_Caculator/assets/icons/history.png</file>
+    <file alias="assets/icons/window.png">D:/Study/QML/ION_Test_Caculator/assets/icons/window.png</file>
+    <file alias="assets/icons/menu.png">D:/Study/QML/ION_Test_Caculator/assets/icons/menu.png</file>
+  </qresource>
+</RCC>
+
