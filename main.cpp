@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
     TinhToan ttoan;
 
     if(!lsu.taoDB()) {
-        qWarning() << "Không thể khởi tạo cơ sở dữ liệu lịch sử!";
+        qWarning() << "Ko tao dc";
     }
 
     //Kết nối TinhToan và LichSu
